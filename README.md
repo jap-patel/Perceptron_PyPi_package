@@ -2,7 +2,7 @@
 
 # How to use the model
 ```python
-from OneNeuron.Perceptron import Perceptron
+from Perceptron_PyPi_package.perceptron import Perceptron
 
 ## get X and y and then use below commands
 model = Perceptron(eta=eta, epochs=epochs)
